@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi I'm Taras Malyi 👋
+
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-taras_malyi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taras-malyi-672293183/)](https://www.linkedin.com/in/taras-malyi-672293183/)
 
 <!--
 **TaRNaX/TaRNaX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
